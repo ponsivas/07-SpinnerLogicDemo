@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">J7_SpinnerInchToCM</string>
+    <string name="inch_to_cm_cm_to_inch_value_converter"><![CDATA[INCH to CM & CM to INCH Value Converter]]></string>
+    <string name="enter_the_numerical_value">Enter the Numerical Value</string>
+    <string name="result">RESULT</string>
+    <string name="clear">CLEAR</string>
+    <string name="dr_p_sivaram">Dr.P.Sivaram</string>
+</resources>
